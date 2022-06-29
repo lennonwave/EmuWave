@@ -1,0 +1,105 @@
+body{
+    background-color: #050505;
+}
+header{
+    align-items: center;
+    text-align: center;
+}
+.title{
+    display: inline-block;
+
+}
+.lennonwave{
+    width: 500px;
+}
+section{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+}
+.form-box{
+    margin-right: 0px;
+    margin-left: 1180px;
+    width: 150px;
+    height: 170px;
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgb(226, 226, 226);
+    align-items: center;
+    text-align: center;
+}
+
+.closeddoor{
+    margin-top: 5px;
+    width: 60px;
+}
+.dooropen{
+    margin-top: 5px;
+    width: 60px;
+    display: none;
+}
+.user-box{ 
+    width: 90px;
+    
+}
+.password-box{
+    margin-top: 10px;
+    width: 90px;
+}
+.entrar{
+    background-color: white;
+    border: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.corpo{
+    margin-top: -171px;
+    width: 1150px;
+    height: 560px;
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgb(65, 65, 65);
+    align-items: center;
+    text-align: center;
+    opacity: .7;
+    color: white;
+    padding: 10px;
+    
+}
+.snes{
+    width: 550px;
+}
+
+footer{
+    display: block;
+    color: white ;
+    font-style: italic;
+    text-align: center;
+    align-items: center;
+}
+.topgearlink{
+    width: 150px;
+    border-radius: 100px;
+}
+.castlevanialink{
+    width: 150px;
+
+}
+.donkeykonglink{
+    width: 150px;
+    border-radius: 100px;
+}
+.topgear2link{
+    width: 150px;
+    border-radius: 100px;
+}
+.supermetroidlink{
+    height: 85px;
+    width: 150px;
+    border-radius: 100px;
+}
+.ryu{
+    width: 50px;
+    margin-bottom: -20px;
+}
